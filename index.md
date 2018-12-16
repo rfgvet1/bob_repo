@@ -149,7 +149,7 @@ where:
 - 	*display name* is the user's  full name that appears on the User's page in the ownCloud Web user interface.
 - 	*email address* is the user's email address.
 - 	*group* is the group name to which the user belongs.
-- 	*uid* is user’s user name and their log-in name.
+- 	*uid* is user name and their log-in name.
 	
 See **User Management** in the [ownCloud Server Configuration page](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/index.html) for a complete list of additional arguments, examples of user commands and other user management tasks.
 
